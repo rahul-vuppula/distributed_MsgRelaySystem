@@ -1,0 +1,5 @@
+Sapphire1.uhcl.edu 127.0.0.1 54673
+Sapphire2.uhcl.edu 127.0.0.1 54673
+Sapphire3.uhcl.edu 127.0.0.1 54673
+Sapphire4.uhcl.edu 127.0.0.1 54673
+Sapphire5.uhcl.edu 127.0.0.1 54673
